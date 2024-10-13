@@ -10,8 +10,9 @@ Nos arquivos deste repositório, você encontrará o arquivo do **Power BI** (.p
 ---
 
 ## 🖼️ Páginas do Relatório
-```markdown
+
 ### 1. Relatório de Vendas: Produtos e Segmentos
+```markdown
 Nesta página, você pode explorar as vendas por produto e segmento de maneira dinâmica com o uso de filtros de ano e mês. São três gráficos principais:
 - 🍕 **Gráfico de Pizza**: Exibe a quantidade de vendas por produto.
 - 📈 **Gráfico de Área**: Mostra a média de preço de venda de cada produto.
@@ -21,8 +22,9 @@ Nesta página, você pode explorar as vendas por produto e segmento de maneira d
 <img src=https://github.com/lipebon/PowerBI/blob/main/gif/financial_bi-pg1.gif>
 
 ---
-```markdown
+
 ### 2. Relatório de Vendas: Países e Lucros
+```markdown
 Aqui, as vendas e lucros são analisados com foco nos países de operação. Os componentes principais desta página são:
 - 💵 **Cartão 1**: Valor total das vendas.
 - 📦 **Cartão 2**: Quantidade total de unidades vendidas.
@@ -33,8 +35,9 @@ Aqui, as vendas e lucros são analisados com foco nos países de operação. Os 
 <img src=https://github.com/lipebon/PowerBI/blob/main/gif/financial_bi-pg2.gif>
 
 ---
-```markdown
+
 ### 3. Distribuição de Lucro, Vendas e Unidades Vendidas: País e Segmento
+```markdown
 Esta página fornece uma visão detalhada de como o lucro, vendas e unidades vendidas se distribuem por país e segmento:
 - 🎯 **Gráfico de Pizza**: Mostra o lucro por segmento.
 - 🌲 **Treemap**: Exibe as vendas por segmento. Esse gráfico também serve como filtro interativo.
@@ -58,10 +61,10 @@ Esta página fornece uma visão detalhada de como o lucro, vendas e unidades ven
 ---
 
 ## 🚀 Tecnologias Utilizadas
-
+```markdown
 - **Power BI**: Plataforma principal para criação do relatório.
 - **Banco de Dados Financial**: Base de dados exemplo usada para o relatório.
-  
+```
 ---
 
 ## 🤝 Contribuições
@@ -75,4 +78,4 @@ Se você deseja contribuir para este projeto, siga os seguintes passos para real
 5. Abra um **pull request** no GitHub.
 
 ---
-```
+
